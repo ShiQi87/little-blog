@@ -1,0 +1,1 @@
+import{_ as e,e as t,o as n}from"./app-48hTYp2a.js";const i={};function r(a,l){return n(),t("div")}const o=e(i,[["render",r],["__file","friendship-link.html.vue"]]),c=JSON.parse('{"path":"/friendship-link.html","title":"","lang":"zh-CN","frontmatter":{"layout":"FriendshipLink"},"headers":[],"git":{},"filePathRelative":null}');export{o as comp,c as data};

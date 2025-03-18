@@ -1,0 +1,1 @@
+import{_ as e,e as t,o}from"./app-48hTYp2a.js";const a={};function r(c,l){return o(),t("div")}const s=e(a,[["render",r],["__file","1.html.vue"]]),_=JSON.parse('{"path":"/categories/NodeJS/NodeNote/1.html","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{s as comp,_ as data};
